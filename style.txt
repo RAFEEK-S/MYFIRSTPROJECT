@@ -1,0 +1,36 @@
+cascading has three types:
+
+1. user-agent stylesheet(default browser stylesheet);
+2. user stylesheet(it overrides the default browser stylesheet);
+3. Author stylesheet(the style which we written); 
+
+{
+    background-color:blue;
+    font-size:10px;             // this is called declaration block;
+}
+
+Types of selector:
+
+1. type selector(div,p,h1&etc);
+2. universal selector(*);
+
+Pseudo class:
+1. hover a:hover;
+2. link  a:link;
+3. visited a:visited;
+4. focus a:focus;
+5. active a:active;
+
+// more information about pseudo class see w3schools.
+
+sematic and non-sematic tags - see w3 schools;
+
+position
+
+1. static - it behaves as normal flow while scrolling,no change in its position;
+2. fixed - it comes out from the normal flow and fixed in the same position even you scrolling;
+3. sticky - it will stick based on the top, left and right values you had given, while scrolling..
+4. relative - you can  move littlebit left and right side from its position;
+5. absolute - it comes out from normal flow and move based on its parent element..
+
+github & git - css units class in the additional section see last 1/2 an hour.. 
