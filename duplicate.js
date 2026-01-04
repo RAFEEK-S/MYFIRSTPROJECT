@@ -6,6 +6,6 @@ for (let i = 0; i < arr.length; i++) {
         console.log("already there:" + arr[i])
     }else filtered.push(arr[i])
   
-}
+};
 
-console.log(filtered);// put console after for loop then only you will get results
+console.log(filtered);// put console after for loop then only you will get results;
